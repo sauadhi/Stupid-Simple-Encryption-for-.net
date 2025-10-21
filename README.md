@@ -1,4 +1,4 @@
 # Stupid-Simple-Encryption-for-.net
 Stupid Simple .net encryption class
 
-I used this in my own code 4 years ago so change and modify where you see fit
+This project is derived from earlier personal code and is now shared under Apache 2.0 for broad reuse.
